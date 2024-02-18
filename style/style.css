@@ -4,7 +4,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f7ecf7; /* Цвет фона */
+    background-color: #f3c4f3; /* Цвет фона */
 }
 
 header {
@@ -267,14 +267,6 @@ box-shadow: 54px -5px 66px 6px rgba(204, 114, 255, 0.38);
       height: 100%;
     }
 
-    body {
-      background: #eee;
-      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-      font-size: 14px;
-      color: #000;
-      margin: 0;
-      padding: 0;
-    }
 
     .swiper {
       width: 100%;
